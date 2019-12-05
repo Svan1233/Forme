@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\bin\Debug\svanTipuricForme.exe.config
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\bin\Debug\svanTipuricForme.exe
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\bin\Debug\svanTipuricForme.pdb
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.Form1.resources
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.Properties.Resources.resources
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.exe
+C:\Users\3.D\source\repos\svanTipuricForme\svanTipuricForme\obj\Debug\svanTipuricForme.pdb
